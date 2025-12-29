@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Test</title>
+</head>
+<body>
+    <h1>Testing Images</h1>
+    
+    <h2>Background Image:</h2>
+    <img src="images/backgrounds/logo.jpeg" style="max-width: 300px;" alt="Background">
+    
+    <h2>Gallery Images:</h2>
+    <img src="images/gallery/WhatsApp Image 2025-12-29 at 1.19.42 PM.jpeg" style="max-width: 200px;" alt="Gallery 1">
+    <img src="images/gallery/WhatsApp Image 2025-12-29 at 1.19.43 PM.jpeg" style="max-width: 200px;" alt="Gallery 2">
+    
+    <script>
+        // Force reload gallery
+        fetch('data/gallery.json')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Gallery data:', data);
+                document.body.innerHTML += '<h2>Gallery JSON loaded successfully</h2>';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.body.innerHTML += '<h2>Error loading gallery JSON</h2>';
+            });
+    </script>
+</body>
+</html>

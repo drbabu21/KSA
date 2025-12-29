@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scores & Performance - Kalyani Shooting Academy</title>
+    <meta name="description" content="Student performance scores and achievements">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Kalyani Shooting Academy</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="notices.html">Notices</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="students.html">Students</a></li>
+                <li><a href="scores.html">Scores</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <div class="container">
+            <h1>Scores & Performance</h1>
+            <p>Track student achievements and progress</p>
+        </div>
+    </header>
+
+    <main class="page-content">
+        <div class="container">
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All Events</button>
+                <button class="filter-btn" data-filter="Pistol">Air Pistol</button>
+                <button class="filter-btn" data-filter="Rifle">Air Rifle</button>
+            </div>
+
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Student Name</th>
+                            <th>Event</th>
+                            <th>Date</th>
+                            <th>Score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="scores-tbody">
+                        <tr>
+                            <td colspan="4" style="text-align: center; padding: 40px;">Loading scores...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="card" style="margin-top: 30px;">
+                <div class="card-body">
+                    <h3>Scoring Information</h3>
+                    <p><strong>10m Air Pistol:</strong> Maximum score is 600 points (60 shots × 10 points each)</p>
+                    <p><strong>10m Air Rifle:</strong> Maximum score is 654 points (60 shots × 10.9 points each)</p>
+                    <p>Scores are updated regularly after training sessions and competitions.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Kalyani Shooting Academy. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Sharma",
+    "event": "10m Air Pistol",
+    "level": "Advanced",
+    "photo": "images/students/arjun.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Priya Patel",
+    "event": "10m Air Rifle",
+    "level": "Intermediate",
+    "photo": "images/students/priya.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Kumar",
+    "event": "10m Air Pistol",
+    "level": "Beginner",
+    "photo": "images/students/rahul.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Singh",
+    "event": "10m Air Rifle",
+    "level": "Advanced",
+    "photo": "images/students/sneha.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Gupta",
+    "event": "10m Air Pistol",
+    "level": "Intermediate",
+    "photo": "images/students/vikram.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Anita Roy",
+    "event": "10m Air Rifle",
+    "level": "Advanced",
+    "photo": "images/students/anita.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Karan Mehta",
+    "event": "10m Air Pistol",
+    "level": "Beginner",
+    "photo": "images/students/karan.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Deepika Joshi",
+    "event": "10m Air Rifle",
+    "level": "Intermediate",
+    "photo": "images/students/deepika.jpg"
+  }
+]

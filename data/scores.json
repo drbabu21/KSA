@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Sharma",
+    "event": "10m Air Pistol",
+    "score": 587,
+    "date": "2024-01-12"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Singh",
+    "event": "10m Air Rifle",
+    "score": 623,
+    "date": "2024-01-12"
+  },
+  {
+    "id": 3,
+    "name": "Priya Patel",
+    "event": "10m Air Rifle",
+    "score": 598,
+    "date": "2024-01-11"
+  },
+  {
+    "id": 4,
+    "name": "Vikram Gupta",
+    "event": "10m Air Pistol",
+    "score": 572,
+    "date": "2024-01-11"
+  },
+  {
+    "id": 5,
+    "name": "Anita Roy",
+    "event": "10m Air Rifle",
+    "score": 615,
+    "date": "2024-01-10"
+  },
+  {
+    "id": 6,
+    "name": "Deepika Joshi",
+    "event": "10m Air Rifle",
+    "score": 589,
+    "date": "2024-01-10"
+  },
+  {
+    "id": 7,
+    "name": "Rahul Kumar",
+    "event": "10m Air Pistol",
+    "score": 545,
+    "date": "2024-01-09"
+  },
+  {
+    "id": 8,
+    "name": "Karan Mehta",
+    "event": "10m Air Pistol",
+    "score": 532,
+    "date": "2024-01-09"
+  },
+  {
+    "id": 9,
+    "name": "Arjun Sharma",
+    "event": "10m Air Pistol",
+    "score": 579,
+    "date": "2024-01-08"
+  },
+  {
+    "id": 10,
+    "name": "Sneha Singh",
+    "event": "10m Air Rifle",
+    "score": 618,
+    "date": "2024-01-08"
+  }
+]

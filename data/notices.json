@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Training Schedule Update",
+    "content": "New training sessions for 10m Air Pistol will start from Monday to Friday, 6:00 AM - 8:00 AM and 4:00 PM - 6:00 PM.",
+    "date": "2024-01-15",
+    "type": "schedule"
+  },
+  {
+    "id": 2,
+    "title": "State Championship Registration",
+    "content": "Registration is now open for the upcoming State Championship. Deadline: January 30, 2024. Contact academy for registration details.",
+    "date": "2024-01-10",
+    "type": "competition"
+  },
+  {
+    "id": 3,
+    "title": "Holiday Notice",
+    "content": "Academy will remain closed on Republic Day (January 26, 2024). Regular training will resume from January 27, 2024.",
+    "date": "2024-01-08",
+    "type": "holiday"
+  },
+  {
+    "id": 4,
+    "title": "New Equipment Arrival",
+    "content": "Latest Olympic-standard air pistols and rifles have arrived. Students can now practice with professional-grade equipment.",
+    "date": "2024-01-05",
+    "type": "announcement"
+  },
+  {
+    "id": 5,
+    "title": "Safety Protocol Reminder",
+    "content": "All students must follow safety protocols strictly. Protective gear is mandatory during training sessions.",
+    "date": "2024-01-03",
+    "type": "safety"
+  }
+]
