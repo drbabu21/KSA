@@ -127,7 +127,7 @@ body {
 .hero {
     height: 90vh;
     background: linear-gradient(135deg, rgba(15, 23, 42, 0.5) 0%, rgba(30, 41, 59, 0.4) 50%, rgba(239, 68, 68, 0.1) 100%), 
-                url('D:/KSA/shooting-academy/images/backgrounds/logo.jpeg');
+                url('images/backgrounds/logo.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
